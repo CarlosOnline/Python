@@ -1,0 +1,19 @@
+{
+    "Target":  "armchk",
+    "BuildVersion":  "01.01.5556.00",
+    "ImageName":  "BananaTests.Client",
+    "vmName":  "BananaTests.Client",
+    "Arch":  "armchk",
+    "TestOutputFolder":  "[ScriptFolder]\\ServerName\\Results\\BananaTests",
+    "ClientName":  "BananaTests.Client",
+    "TestResultsLogFolder":  "[ScriptFolder]\\ServerName\\Results\\ServerName\\01.01.5556.00\\ServerName\\Logs",
+    "BranchName":  "BananaTests",
+    "TestResultsTRX":  "[ScriptFolder]\\ServerName\\Results\\ServerName\\01.01.5556.00\\ServerName\\TestResults.trx",
+    "TestResultsFolder":  "[ScriptFolder]\\ServerName\\Results\\ServerName\\01.01.5556.00\\armchk",
+    "BuildPlatform":  "x86",
+    "BuildIdentity":  "BananaTests - armchk - 01.01.5556.00",
+    "OutputFolder":  "[ScriptFolder]\\ServerName\\Results",
+    "TuxNetResultsFolder":  "[ScriptFolder]\\ServerName\\Results\\ServerName\\01.01.5556.00\\ServerName\\In\\Results",
+    "NetworkTestResultsFolder" : "[ScriptFolder]\\ServerName\\Results\\ServerName\\01.01.5556.00\\ServerName\\In\\Results",
+    "BuildFlavor":  "chk"
+}

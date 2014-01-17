@@ -1,0 +1,58 @@
+{
+    "BackupDrives": [
+    ],
+    "ArchiveFolders": [
+        "d:\\ServerName\\Archive"
+    ],
+    "BackupFolders": [
+        "d:\\dev",
+        "d:\\src"
+    ],
+    "Media": {
+        "Music": {
+            "Extensions": [
+                "m3u",
+                "mp3",
+                "wma",
+                "m4a",
+                "wav",
+                "wpl",
+                "zpl"
+            ],
+            "DefaultFolders": [
+                "[USERPROFILE]\\Music"
+            ]
+        },
+        "Pictures": {
+            "Extensions": [
+                "bmp",
+                "jpg",
+                "tif",
+                "gif",
+                "png",
+                "pcs"
+            ],
+            "DefaultFolders": [
+                "[USERPROFILE]\\Pictures"
+            ]
+        },
+        "Video": {
+            "Extensions": [
+                "m2ts",
+                "mpg",
+                "avi",
+                "3gp",
+                "wmv",
+                "mts",
+                "mov",
+                "msdvd",
+                "mp4",
+                "mswmm",
+                "asf"
+            ],
+            "DefaultFolders": [
+                "[USERPROFILE]\\videos"
+            ]
+        }
+    }
+}

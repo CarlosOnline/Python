@@ -1,0 +1,82 @@
+{
+    "BackupDrives": [
+        "MyBook1",
+        "Elements"
+    ],
+    "ArchiveFolders": [
+    ],
+    "BackupFolders": [
+        "d:\\Backup Files",
+        "d:\\Pictures",
+        "d:\\Videos",
+        "d:\\Music",
+        "d:\\bat",
+        "d:\\data",
+        "d:\\Projects",
+        "d:\\dev",
+        "d:\\src"
+    ],
+    "BackupExcludeFolders": [
+        "__pycache__",
+        "Temporary Internet Files",
+        "[drive]\\ServerName\\Kai\\2010",
+        "[drive]\\ServerName\\Kai\\2011",
+        "[drive]\\Backup Files\\CarlosMac",
+        "[drive]\\Backup Files\\SaoriMac",
+        "[drive]\\Backup Files\\_CCC Archives"
+    ],
+    "BackupExcludeFiles": [
+        "*.pyc",
+        ".DS_Store",
+        "thumbs.db",
+        "pagefile.sys",
+        "hiberfil.sys"
+    ],
+    "Media": {
+        "Music": {
+            "Extensions": [
+                "m3u",
+                "mp3",
+                "wma",
+                "m4a",
+                "wav",
+                "wpl",
+                "zpl"
+            ],
+            "DefaultFolders": [
+                "d:\\music"
+            ]
+        },
+        "Pictures": {
+            "Extensions": [
+                "bmp",
+                "jpg",
+                "tif",
+                "gif",
+                "png",
+                "pcs"
+            ],
+            "DefaultFolders": [
+                "d:\\Pictures"
+            ]
+        },
+        "Video": {
+            "Extensions": [
+                "m2ts",
+                "mpg",
+                "avi",
+                "3gp",
+                "wmv",
+                "mts",
+                "mov",
+                "msdvd",
+                "mp4",
+                "mswmm",
+                "asf"
+            ],
+            "DefaultFolders": [
+                "d:\\Videos"
+            ]
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "BackupDrives": [
+    ],
+    "ArchiveFolders": [
+        "/data/Archive"
+    ],
+    "BackupFolders": [
+        "/Users/cgomes/Pictures",
+        "/Users/cgomes/Videos",
+        "/Users/cgomes/Music",
+        "/data",
+        "/src"
+    ],
+    "Media": {
+        "Music": {
+            "Extensions": [
+                "m3u",
+                "mp3",
+                "wma",
+                "m4a",
+                "wav",
+                "wpl",
+                "zpl"
+            ],
+            "DefaultFolders": [
+                "~/music"
+            ]
+        },
+        "Pictures": {
+            "Extensions": [
+                "bmp",
+                "jpg",
+                "jpeg",
+                "tif",
+                "gif",
+                "png",
+                "pcs"
+            ],
+            "DefaultFolders": [
+                "~/Pictures"
+            ]
+        },
+        "Video": {
+            "Extensions": [
+                "m2ts",
+                "mpg",
+                "avi",
+                "3gp",
+                "wmv",
+                "mts",
+                "mov",
+                "msdvd",
+                "mp4",
+                "mswmm",
+                "asf"
+            ],
+            "DefaultFolders": [
+                "~/videos"
+            ]
+        }
+    }
+}

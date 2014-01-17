@@ -1,0 +1,19 @@
+{
+    "Target":  "x86chk",
+    "BuildVersion":  "02.12.7890.AA",
+    "ImageName":  "BarTests.Client",
+    "vmName":  "BarTests.Client",
+    "Arch":  "x86chk",
+    "TestOutputFolder":  "[ScriptFolder]\\ServerName\\Results\\BarTests",
+    "ClientName":  "BarTests.Client",
+    "TestResultsLogFolder":  "[ScriptFolder]\\ServerName\\Results\\ServerName\\02.12.7890.AA\\ServerName\\Logs",
+    "BranchName":  "BarTests",
+    "TestResultsTRX":  "[ScriptFolder]\\ServerName\\Results\\ServerName\\02.12.7890.AA\\ServerName\\TestResults.trx",
+    "TestResultsFolder":  "[ScriptFolder]\\ServerName\\Results\\ServerName\\02.12.7890.AA\\x86chk",
+    "BuildPlatform":  "x86",
+    "BuildIdentity":  "BarTests - x86chk - 02.12.7890.AA",
+    "OutputFolder":  "[ScriptFolder]\\ServerName\\Results",
+    "TuxNetResultsFolder":  "[ScriptFolder]\\ServerName\\Results\\ServerName\\02.12.7890.AA\\ServerName\\In\\Results",
+    "NetworkTestResultsFolder" : "[ScriptFolder]\\ServerName\\Results\\ServerName\\02.12.7890.AA\\ServerName\\In\\Results",
+    "BuildFlavor":  "chk"
+}

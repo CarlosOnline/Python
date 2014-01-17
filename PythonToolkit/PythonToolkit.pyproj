@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>4bb24251-c23e-4eaa-9add-7982a7883187</ProjectGuid>
+    <ProjectHome>..\</ProjectHome>
+    <StartupFile>ToolKit.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <InterpreterId>9a7a9026-48c1-4688-9d5d-e5699d47d074</InterpreterId>
+    <InterpreterVersion>3.2</InterpreterVersion>
+    <Name>PythonToolkit</Name>
+    <RootNamespace>PythonToolkit</RootNamespace>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <CommandLineArguments>UnitTests TestResults*</CommandLineArguments>
+    <InterpreterPath />
+    <InterpreterArguments />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="FindDups.py" />
+    <Compile Include="Home.py" />
+    <Compile Include="HomeActions.py" />
+    <Compile Include="TestResults.py" />
+    <Compile Include="ToolKit.py" />
+    <Compile Include="CommonActions.py" />
+    <Compile Include="Utility\Email.py" />
+    <Compile Include="Utility\Html.py" />
+    <Compile Include="Utility\OSX\UnitTests.py" />
+    <Compile Include="Utility\Sql.py" />
+    <Compile Include="Utility\Win32\UnitTests.py" />
+    <Compile Include="WorkActions.py" />
+    <Compile Include="colorama\ansi.py" />
+    <Compile Include="colorama\ansitowin32.py" />
+    <Compile Include="colorama\initialise.py" />
+    <Compile Include="colorama\win32.py" />
+    <Compile Include="colorama\winterm.py" />
+    <Compile Include="colorama\__init__.py" />
+    <Compile Include="Utility\Actions.py" />
+    <Compile Include="Utility\EXIF.py" />
+    <Compile Include="Utility\HomeUtility.py" />
+    <Compile Include="Utility\UnitTests.py" />
+    <Compile Include="Utility\Utility.py" />
+    <Compile Include="Utility\WebServer.py" />
+    <Compile Include="Utility\__init__.py" />
+    <Compile Include="Utility\OSX\ActionService.py" />
+    <Compile Include="Utility\OSX\Service.py" />
+    <Compile Include="Utility\OSX\Utility.py" />
+    <Compile Include="Utility\OSX\Window.py" />
+    <Compile Include="Utility\OSX\__init__.py" />
+    <Compile Include="Utility\Win32\ActionService.py" />
+    <Compile Include="Utility\Win32\Service.py" />
+    <Compile Include="Utility\Win32\Utility.py" />
+    <Compile Include="Utility\Win32\Window.py" />
+    <Compile Include="Utility\Win32\__init__.py" />
+    <Content Include="Templates\TestResults.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="colorama" />
+    <Folder Include="Templates" />
+    <Folder Include="Utility" />
+    <Folder Include="Utility\OSX" />
+    <Folder Include="Utility\Win32" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
+</Project>

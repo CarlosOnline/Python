@@ -1,0 +1,18 @@
+<table  style = "display:visible;" id = "table2">
+   <tr>
+      <th>column1</th>
+      <th>column2</th>
+      <th  style = "display:visible;"   style = "display:visible;">
+         <b>column3</b>
+      </th>
+      <th>column4</th>
+   </tr>
+   <tr>
+      <td>data1</td>
+      <td>data2</td>
+      <td  style = "display:visible;"   style = "display:visible;">
+         <b>data3</b>
+      </td>
+      <td>data4</td>
+   </tr>
+</table>

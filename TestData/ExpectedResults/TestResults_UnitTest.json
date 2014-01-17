@@ -1,0 +1,282 @@
+{
+    "BananaTests": {
+        "armchk": {
+            "01.01.5555.00": {
+                "Diff1": [
+                    "TestA", 
+                    "TestB"
+                ], 
+                "Diff2": [], 
+                "ExpectedResults": [
+                    {
+                        "assembly": "BananaTests.TestCases.dll", 
+                        "branchName": "BananaTests", 
+                        "bug": false, 
+                        "buildVersion": "01.01.5555.00", 
+                        "comments": "", 
+                        "id": "BananaTests.TestCases.dll!UnitTestTestCases!TestA", 
+                        "logFile": "[Temp]/Python/UnitTests/TestResults_UnitTest/TestResults/BananaTests/armchk/BananaTestsCases/UnitTestTestCases/TestA/results.log", 
+                        "name": "TestA", 
+                        "networkLogFile": "[ScriptFolder]/TestData/Results/BananaTests/01.01.5555.00/armchk/In/Results/TestA/results.log", 
+                        "networkResultsFolder": "[ScriptFolder]/TestData/Results/BananaTests/01.01.5555.00/armchk/In/Results/TestA", 
+                        "repro": "RunTuxNet TestA UnitTestTestCases BananaTests.TestCases.dll", 
+                        "resolved": false, 
+                        "resultsFolder": "[Temp]/Python/UnitTests/TestResults_UnitTest/TestResults/BananaTests/armchk/BananaTestsCases/UnitTestTestCases/TestA", 
+                        "suite": "UnitTestTestCases", 
+                        "target": "armchk"
+                    }, 
+                    {
+                        "assembly": "BananaTests.TestCases.dll", 
+                        "branchName": "BananaTests", 
+                        "bug": false, 
+                        "buildVersion": "01.01.5555.00", 
+                        "comments": "", 
+                        "id": "BananaTests.TestCases.dll!UnitTestTestCases!TestB", 
+                        "logFile": "[Temp]/Python/UnitTests/TestResults_UnitTest/TestResults/BananaTests/armchk/BananaTestsCases/UnitTestTestCases/TestB/results.log", 
+                        "name": "TestB", 
+                        "networkLogFile": "[ScriptFolder]/TestData/Results/BananaTests/01.01.5555.00/armchk/In/Results/TestB/results.log", 
+                        "networkResultsFolder": "[ScriptFolder]/TestData/Results/BananaTests/01.01.5555.00/armchk/In/Results/TestB", 
+                        "repro": "RunTuxNet TestB UnitTestTestCases BananaTests.TestCases.dll", 
+                        "resolved": false, 
+                        "resultsFolder": "[Temp]/Python/UnitTests/TestResults_UnitTest/TestResults/BananaTests/armchk/BananaTestsCases/UnitTestTestCases/TestB", 
+                        "suite": "UnitTestTestCases", 
+                        "target": "armchk"
+                    }, 
+                    {
+                        "assembly": "BananaTests.TestCases.dll", 
+                        "branchName": "BananaTests", 
+                        "bug": false, 
+                        "buildVersion": "01.01.5555.00", 
+                        "comments": "", 
+                        "id": "BananaTests.TestCases.dll!UnitTestTestCases!TestC", 
+                        "logFile": "[Temp]/Python/UnitTests/TestResults_UnitTest/TestResults/BananaTests/armchk/BananaTestsCases/UnitTestTestCases/TestC/results.log", 
+                        "name": "TestC", 
+                        "networkLogFile": "[ScriptFolder]/TestData/Results/BananaTests/01.01.5555.00/armchk/In/Results/TestC/results.log", 
+                        "networkResultsFolder": "[ScriptFolder]/TestData/Results/BananaTests/01.01.5555.00/armchk/In/Results/TestC", 
+                        "repro": "RunTuxNet TestC UnitTestTestCases BananaTests.TestCases.dll", 
+                        "resolved": false, 
+                        "resultsFolder": "[Temp]/Python/UnitTests/TestResults_UnitTest/TestResults/BananaTests/armchk/BananaTestsCases/UnitTestTestCases/TestC", 
+                        "suite": "UnitTestTestCases", 
+                        "target": "armchk"
+                    }
+                ], 
+                "FoundVersions": [
+                    "01.01.5557.00", 
+                    "01.01.5556.00", 
+                    "01.01.5555.00", 
+                    "01.01.5555.00", 
+                    "01.01.5555.00", 
+                    "01.01.5556.00", 
+                    "01.01.5557.00", 
+                    "01.01.5557.00"
+                ]
+            }
+        }
+    }, 
+    "BarTests": {
+        "x86chk": {
+            "02.12.7890.AA": {
+                "Diff1": [
+                    "TestA", 
+                    "TestB"
+                ], 
+                "Diff2": [], 
+                "ExpectedResults": [
+                    {
+                        "assembly": "BarTests.TestCases.dll", 
+                        "branchName": "BarTests", 
+                        "bug": false, 
+                        "buildVersion": "02.12.7890.AA", 
+                        "comments": "", 
+                        "id": "BarTests.TestCases.dll!UnitTestTestCases!TestA", 
+                        "logFile": "[Temp]/Python/UnitTests/TestResults_UnitTest/TestResults/BarTests/x86chk/BarTestsCases/UnitTestTestCases/TestA/results.log", 
+                        "name": "TestA", 
+                        "networkLogFile": "[ScriptFolder]/TestData/Results/BarTests/02.12.7890.AA/x86chk/In/Results/TestA/results.log", 
+                        "networkResultsFolder": "[ScriptFolder]/TestData/Results/BarTests/02.12.7890.AA/x86chk/In/Results/TestA", 
+                        "repro": "RunTuxNet TestA UnitTestTestCases BarTests.TestCases.dll", 
+                        "resolved": false, 
+                        "resultsFolder": "[Temp]/Python/UnitTests/TestResults_UnitTest/TestResults/BarTests/x86chk/BarTestsCases/UnitTestTestCases/TestA", 
+                        "suite": "UnitTestTestCases", 
+                        "target": "x86chk"
+                    }, 
+                    {
+                        "assembly": "BarTests.TestCases.dll", 
+                        "branchName": "BarTests", 
+                        "bug": false, 
+                        "buildVersion": "02.12.7890.AA", 
+                        "comments": "", 
+                        "id": "BarTests.TestCases.dll!UnitTestTestCases!TestB", 
+                        "logFile": "[Temp]/Python/UnitTests/TestResults_UnitTest/TestResults/BarTests/x86chk/BarTestsCases/UnitTestTestCases/TestB/results.log", 
+                        "name": "TestB", 
+                        "networkLogFile": "[ScriptFolder]/TestData/Results/BarTests/02.12.7890.AA/x86chk/In/Results/TestB/results.log", 
+                        "networkResultsFolder": "[ScriptFolder]/TestData/Results/BarTests/02.12.7890.AA/x86chk/In/Results/TestB", 
+                        "repro": "RunTuxNet TestB UnitTestTestCases BarTests.TestCases.dll", 
+                        "resolved": false, 
+                        "resultsFolder": "[Temp]/Python/UnitTests/TestResults_UnitTest/TestResults/BarTests/x86chk/BarTestsCases/UnitTestTestCases/TestB", 
+                        "suite": "UnitTestTestCases", 
+                        "target": "x86chk"
+                    }, 
+                    {
+                        "assembly": "BarTests.TestCases.dll", 
+                        "branchName": "BarTests", 
+                        "bug": false, 
+                        "buildVersion": "02.12.7890.AA", 
+                        "comments": "", 
+                        "id": "BarTests.TestCases.dll!UnitTestTestCases!TestC", 
+                        "logFile": "[Temp]/Python/UnitTests/TestResults_UnitTest/TestResults/BarTests/x86chk/BarTestsCases/UnitTestTestCases/TestC/results.log", 
+                        "name": "TestC", 
+                        "networkLogFile": "[ScriptFolder]/TestData/Results/BarTests/02.12.7890.AA/x86chk/In/Results/TestC/results.log", 
+                        "networkResultsFolder": "[ScriptFolder]/TestData/Results/BarTests/02.12.7890.AA/x86chk/In/Results/TestC", 
+                        "repro": "RunTuxNet TestC UnitTestTestCases BarTests.TestCases.dll", 
+                        "resolved": false, 
+                        "resultsFolder": "[Temp]/Python/UnitTests/TestResults_UnitTest/TestResults/BarTests/x86chk/BarTestsCases/UnitTestTestCases/TestC", 
+                        "suite": "UnitTestTestCases", 
+                        "target": "x86chk"
+                    }
+                ], 
+                "FoundVersions": [
+                    "02.12.7890.AA", 
+                    "02.12.7890.AA", 
+                    "02.12.7890.AA", 
+                    "02.12.7890.AA", 
+                    "02.12.7890.AA", 
+                    "02.12.7890.AA", 
+                    "02.12.7890.AA", 
+                    "02.12.7890.AA"
+                ]
+            }
+        }
+    }, 
+    "Diff1": [
+        "TestA", 
+        "TestB"
+    ], 
+    "Diff2": [], 
+    "ExpectedResults": [
+        {
+            "assembly": "UnitTests.TestCases.dll", 
+            "branchName": "UnitTests", 
+            "bug": false, 
+            "buildVersion": "01.01.8888.00", 
+            "comments": "", 
+            "id": "UnitTests.TestCases.dll!UnitTestTestCases!TestA", 
+            "logFile": "[CurTestOutputFolder]/TestResults/UnitTests/x86chk/UnitTestsCases/UnitTestTestCases/TestA/results.log", 
+            "name": "TestA", 
+            "networkLogFile": "[NetworkRootFolder]/UnitTests/01.01.8888.00/x86chk/In/Results/TestA/results.log", 
+            "networkResultsFolder": "[NetworkRootFolder]/UnitTests/01.01.8888.00/x86chk/In/Results/TestA", 
+            "repro": "RunTuxNet TestA UnitTestTestCases UnitTests.TestCases.dll", 
+            "resolved": false, 
+            "resultsFolder": "[CurTestOutputFolder]/TestResults/UnitTests/x86chk/UnitTestsCases/UnitTestTestCases/TestA", 
+            "suite": "UnitTestTestCases", 
+            "target": "x86chk"
+        }, 
+        {
+            "assembly": "UnitTests.TestCases.dll", 
+            "branchName": "UnitTests", 
+            "bug": false, 
+            "buildVersion": "01.01.8888.00", 
+            "comments": "", 
+            "id": "UnitTests.TestCases.dll!UnitTestTestCases!TestB", 
+            "logFile": "[CurTestOutputFolder]/TestResults/UnitTests/x86chk/UnitTestsCases/UnitTestTestCases/TestB/results.log", 
+            "name": "TestB", 
+            "networkLogFile": "[NetworkRootFolder]/UnitTests/01.01.8888.00/x86chk/In/Results/TestB/results.log", 
+            "networkResultsFolder": "[NetworkRootFolder]/UnitTests/01.01.8888.00/x86chk/In/Results/TestB", 
+            "repro": "RunTuxNet TestB UnitTestTestCases UnitTests.TestCases.dll", 
+            "resolved": false, 
+            "resultsFolder": "[CurTestOutputFolder]/TestResults/UnitTests/x86chk/UnitTestsCases/UnitTestTestCases/TestB", 
+            "suite": "UnitTestTestCases", 
+            "target": "x86chk"
+        }, 
+        {
+            "assembly": "UnitTests.TestCases.dll", 
+            "branchName": "UnitTests", 
+            "bug": false, 
+            "buildVersion": "01.01.8888.00", 
+            "comments": "", 
+            "id": "UnitTests.TestCases.dll!UnitTestTestCases!TestC", 
+            "logFile": "[CurTestOutputFolder]/TestResults/UnitTests/x86chk/UnitTestsCases/UnitTestTestCases/TestC/results.log", 
+            "name": "TestC", 
+            "networkLogFile": "[NetworkRootFolder]/UnitTests/01.01.8888.00/x86chk/In/Results/TestC/results.log", 
+            "networkResultsFolder": "[NetworkRootFolder]/UnitTests/01.01.8888.00/x86chk/In/Results/TestC", 
+            "repro": "RunTuxNet TestC UnitTestTestCases UnitTests.TestCases.dll", 
+            "resolved": false, 
+            "resultsFolder": "[CurTestOutputFolder]/TestResults/UnitTests/x86chk/UnitTestsCases/UnitTestTestCases/TestC", 
+            "suite": "UnitTestTestCases", 
+            "target": "x86chk"
+        }
+    ], 
+    "FooTests": {
+        "x86fre": {
+            "01.01.8888.00": {
+                "Diff1": [
+                    "TestA", 
+                    "TestB"
+                ], 
+                "Diff2": [], 
+                "ExpectedResults": [
+                    {
+                        "assembly": "FooTests.TestCases.dll", 
+                        "branchName": "FooTests", 
+                        "bug": false, 
+                        "buildVersion": "01.01.8888.00", 
+                        "comments": "", 
+                        "id": "FooTests.TestCases.dll!UnitTestTestCases!TestA", 
+                        "logFile": "[Temp]/Python/UnitTests/TestResults_UnitTest/TestResults/FooTests/x86fre/FooTestsCases/UnitTestTestCases/TestA/results.log", 
+                        "name": "TestA", 
+                        "networkLogFile": "[ScriptFolder]/TestData/Results/FooTests/01.01.8888.00/x86fre/In/Results/TestA/results.log", 
+                        "networkResultsFolder": "[ScriptFolder]/TestData/Results/FooTests/01.01.8888.00/x86fre/In/Results/TestA", 
+                        "repro": "RunTuxNet TestA UnitTestTestCases FooTests.TestCases.dll", 
+                        "resolved": false, 
+                        "resultsFolder": "[Temp]/Python/UnitTests/TestResults_UnitTest/TestResults/FooTests/x86fre/FooTestsCases/UnitTestTestCases/TestA", 
+                        "suite": "UnitTestTestCases", 
+                        "target": "x86fre"
+                    }, 
+                    {
+                        "assembly": "FooTests.TestCases.dll", 
+                        "branchName": "FooTests", 
+                        "bug": false, 
+                        "buildVersion": "01.01.8888.00", 
+                        "comments": "", 
+                        "id": "FooTests.TestCases.dll!UnitTestTestCases!TestB", 
+                        "logFile": "[Temp]/Python/UnitTests/TestResults_UnitTest/TestResults/FooTests/x86fre/FooTestsCases/UnitTestTestCases/TestB/results.log", 
+                        "name": "TestB", 
+                        "networkLogFile": "[ScriptFolder]/TestData/Results/FooTests/01.01.8888.00/x86fre/In/Results/TestB/results.log", 
+                        "networkResultsFolder": "[ScriptFolder]/TestData/Results/FooTests/01.01.8888.00/x86fre/In/Results/TestB", 
+                        "repro": "RunTuxNet TestB UnitTestTestCases FooTests.TestCases.dll", 
+                        "resolved": false, 
+                        "resultsFolder": "[Temp]/Python/UnitTests/TestResults_UnitTest/TestResults/FooTests/x86fre/FooTestsCases/UnitTestTestCases/TestB", 
+                        "suite": "UnitTestTestCases", 
+                        "target": "x86fre"
+                    }, 
+                    {
+                        "assembly": "FooTests.TestCases.dll", 
+                        "branchName": "FooTests", 
+                        "bug": false, 
+                        "buildVersion": "01.01.8888.00", 
+                        "comments": "", 
+                        "id": "FooTests.TestCases.dll!UnitTestTestCases!TestC", 
+                        "logFile": "[Temp]/Python/UnitTests/TestResults_UnitTest/TestResults/FooTests/x86fre/FooTestsCases/UnitTestTestCases/TestC/results.log", 
+                        "name": "TestC", 
+                        "networkLogFile": "[ScriptFolder]/TestData/Results/FooTests/01.01.8888.00/x86fre/In/Results/TestC/results.log", 
+                        "networkResultsFolder": "[ScriptFolder]/TestData/Results/FooTests/01.01.8888.00/x86fre/In/Results/TestC", 
+                        "repro": "RunTuxNet TestC UnitTestTestCases FooTests.TestCases.dll", 
+                        "resolved": false, 
+                        "resultsFolder": "[Temp]/Python/UnitTests/TestResults_UnitTest/TestResults/FooTests/x86fre/FooTestsCases/UnitTestTestCases/TestC", 
+                        "suite": "UnitTestTestCases", 
+                        "target": "x86fre"
+                    }
+                ], 
+                "FoundVersions": [
+                    "01.01.8888.00", 
+                    "01.01.8888.00", 
+                    "01.01.8888.00", 
+                    "01.01.8888.00", 
+                    "01.01.8888.00", 
+                    "01.01.8888.00", 
+                    "01.01.8888.00", 
+                    "01.01.8888.00"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "[mediaFolder]\\Music": [
+        "[TestDataFolder]\\ServerName\\Music\\Gayan2.mp3"
+    ],
+    "[mediaFolder]\\Pictures": [],
+    "[mediaFolder]\\Videos": [
+        "[TestDataFolder]\\ServerName\\Videos\\video2.mpg",
+        "[TestDataFolder]\\ServerName\\Videos\\video3.mpg",
+        "[TestDataFolder]\\ServerName\\Videos\\video4.mpg"
+    ]
+}

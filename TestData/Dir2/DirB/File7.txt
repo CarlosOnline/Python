@@ -1,0 +1,46 @@
+{
+    "Config": {
+        "BranchName": "Branch1",
+        "BuildVersion": "01.01.0158.00",
+        "Target": "x86fre",
+        "passRate": "96.40%",
+        "totalFailCount": 2,
+        "totalPassCount": 1,
+        "totalTestCount": 3
+    },
+    "Results": {
+        "Test1": {
+            "assembly": "Test1.dll",
+            "branchName": "Branch1",
+            "buildVersion": "01.01.0158.00",
+            "id": "Test1",
+            "logFile": "[TestDataFolder]\\ServerName\\results.log",
+            "name": "Test1",
+            "resultsFolder": "[TestDataFolder]\\Test1",
+            "suite": "UnitTests",
+            "target": "x86fre"
+        },
+        "Test2": {
+            "assembly": "Test2.dll",
+            "branchName": "Branch1",
+            "buildVersion": "01.01.0158.00",
+            "id": "Test2",
+            "logFile": "[TestDataFolder]\\ServerName\\results.log",
+            "name": "Test2",
+            "resultsFolder": "[TestDataFolder]\\Test2",
+            "suite": "UnitTests",
+            "target": "x86fre"
+        },
+        "Test3": {
+            "assembly": "Test3.dll",
+            "branchName": "Branch1",
+            "buildVersion": "01.01.0158.00",
+            "id": "Test3",
+            "logFile": "[TestDataFolder]\\ServerName\\results.log",
+            "name": "Test3",
+            "resultsFolder": "[TestDataFolder]\\Test3",
+            "suite": "UnitTests",
+            "target": "x86fre"
+        }
+   }
+}

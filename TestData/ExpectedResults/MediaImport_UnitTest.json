@@ -1,0 +1,81 @@
+{
+    "change": {
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/ChangeMedia/20120512_145244.jpg": {
+            "mtime": "2012:05:12 14:52:44"
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/ChangeMedia/20120512_145244.png": {
+            "mtime": "2012:05:12 14:52:44"
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/ChangeMedia/DSCN1896.JPG": {
+            "mtime": "2011:09:03 11:03:00"
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/ChangeMedia/DSCN1910.JPG": {
+            "mtime": "2011:09:03 11:03:00"
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/ChangeMedia/DSCN1920.JPG": {
+            "mtime": "2011:09:03 11:03:00"
+        }
+    },
+    "imported": {
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/ImportMedia": {
+            "count": 5
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/ImportMedia2": {
+            "count": 0
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/ImportMedia3": {
+            "count": 0
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/Media/Music/Gayan.mp3": {
+            "mtime": "2011:09:03 11:03:00"
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/Media/Music/Gayan2.mp3": {
+            "mtime": "2011:09:03 11:03:00"
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/Media/Music/Moon.mp3": {
+            "mtime": "2011:09:03 11:03:00"
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/Media/Music/Shakespeare.mp3": {
+            "mtime": "2011:09:03 11:03:00"
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/Media/Pictures/IMG_0004.JPG": {
+            "mtime": "2011:09:03 11:03:00"
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/Media/Pictures/IMG_0005.JPG": {
+            "mtime": "2011:09:03 11:03:00"
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/Media/Pictures/IMG_0009.JPG": {
+            "mtime": "2011:09:03 11:03:00"
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/Media/Pictures/IMG_0010.JPG": {
+            "mtime": "2011:09:03 11:03:00"
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/Media/Pictures/Test/2011/Test-09-2011/DSCN1896.JPG": {
+            "mtime": "2011:09:03 11:03:00"
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/Media/Pictures/Test/2011/Test-09-2011/DSCN1910.JPG": {
+            "mtime": "2011:09:03 11:03:00"
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/Media/Pictures/Test/2011/Test-09-2011/DSCN1920.JPG": {
+            "mtime": "2011:09:03 11:03:00"
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/Media/Pictures/Test/2012/Test-05-2012/20120512_145244.jpg": {
+            "mtime": "2012:05:12 14:52:44"
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/Media/Pictures/Test/2012/Test-05-2012/20120512_145244.png": {
+            "mtime": "2012:05:12 14:52:44"
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/Media/Videos/video1.mpg": {
+            "mtime": "2011:09:03 11:03:00"
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/Media/Videos/video2.mpg": {
+            "mtime": "2011:09:03 11:03:00"
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/Media/Videos/video3.mpg": {
+            "mtime": "2011:09:03 11:03:00"
+        },
+        "[Temp]/Python/UnitTests/MediaImport_UnitTest/Media/Videos/video4.mpg": {
+            "mtime": "2011:09:03 11:03:00"
+        }
+    }
+}

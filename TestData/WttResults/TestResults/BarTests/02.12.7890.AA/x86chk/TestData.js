@@ -1,0 +1,56 @@
+         var g_TestData = {
+    "Config": {
+        "BranchName": "BarTests", 
+        "BuildVersion": "02.12.7890.AA", 
+        "Target": "x86chk", 
+        "buildVersions": "02.12.7890.AA", 
+        "passRate": "25.00%", 
+        "totalFailCount": 3, 
+        "totalPassCount": 1, 
+        "totalTestCount": 4
+    }, 
+    "Results": {
+        "BarTests.TestCases.dll!UnitTestTestCases!TestA": {
+            "assembly": "BarTests.TestCases.dll", 
+            "branchName": "BarTests", 
+            "buildVersion": "02.12.7890.AA", 
+            "id": "BarTests.TestCases.dll!UnitTestTestCases!TestA", 
+            "logFile": "/private/tmp/Python/UnitTests/TestResults_UnitTest/TestResults/BarTests/x86chk/BarTestsCases/UnitTestTestCases/TestA/results.log", 
+            "name": "TestA", 
+            "networkLogFile": "/src/Python/TestData/Results/BarTests/02.12.7890.AA/x86chk/In/Results/TestA/results.log", 
+            "networkResultsFolder": "/src/Python/TestData/Results/BarTests/02.12.7890.AA/x86chk/In/Results/TestA", 
+            "repro": "RunTuxNet TestA UnitTestTestCases BarTests.TestCases.dll", 
+            "resultsFolder": "/private/tmp/Python/UnitTests/TestResults_UnitTest/TestResults/BarTests/x86chk/BarTestsCases/UnitTestTestCases/TestA", 
+            "suite": "UnitTestTestCases", 
+            "target": "x86chk"
+        }, 
+        "BarTests.TestCases.dll!UnitTestTestCases!TestB": {
+            "assembly": "BarTests.TestCases.dll", 
+            "branchName": "BarTests", 
+            "buildVersion": "02.12.7890.AA", 
+            "id": "BarTests.TestCases.dll!UnitTestTestCases!TestB", 
+            "logFile": "/private/tmp/Python/UnitTests/TestResults_UnitTest/TestResults/BarTests/x86chk/BarTestsCases/UnitTestTestCases/TestB/results.log", 
+            "name": "TestB", 
+            "networkLogFile": "/src/Python/TestData/Results/BarTests/02.12.7890.AA/x86chk/In/Results/TestB/results.log", 
+            "networkResultsFolder": "/src/Python/TestData/Results/BarTests/02.12.7890.AA/x86chk/In/Results/TestB", 
+            "repro": "RunTuxNet TestB UnitTestTestCases BarTests.TestCases.dll", 
+            "resultsFolder": "/private/tmp/Python/UnitTests/TestResults_UnitTest/TestResults/BarTests/x86chk/BarTestsCases/UnitTestTestCases/TestB", 
+            "suite": "UnitTestTestCases", 
+            "target": "x86chk"
+        }, 
+        "BarTests.TestCases.dll!UnitTestTestCases!TestC": {
+            "assembly": "BarTests.TestCases.dll", 
+            "branchName": "BarTests", 
+            "buildVersion": "02.12.7890.AA", 
+            "id": "BarTests.TestCases.dll!UnitTestTestCases!TestC", 
+            "logFile": "/private/tmp/Python/UnitTests/TestResults_UnitTest/TestResults/BarTests/x86chk/BarTestsCases/UnitTestTestCases/TestC/results.log", 
+            "name": "TestC", 
+            "networkLogFile": "/src/Python/TestData/Results/BarTests/02.12.7890.AA/x86chk/In/Results/TestC/results.log", 
+            "networkResultsFolder": "/src/Python/TestData/Results/BarTests/02.12.7890.AA/x86chk/In/Results/TestC", 
+            "repro": "RunTuxNet TestC UnitTestTestCases BarTests.TestCases.dll", 
+            "resultsFolder": "/private/tmp/Python/UnitTests/TestResults_UnitTest/TestResults/BarTests/x86chk/BarTestsCases/UnitTestTestCases/TestC", 
+            "suite": "UnitTestTestCases", 
+            "target": "x86chk"
+        }
+    }
+};

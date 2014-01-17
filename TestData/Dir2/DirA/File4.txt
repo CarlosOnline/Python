@@ -1,0 +1,20 @@
+<html>
+   <table>
+      <tr>
+         <th>column1</th>
+         <th>column2</th>
+         <th  style = "display:visible;"   style = "display:visible;">
+            <b>column3</b>
+         </th>
+         <th>column4</th>
+      </tr>
+      <tr>
+         <td>column1</td>
+         <td>column2</td>
+         <td  style = "display:visible;"   style = "display:visible;">
+            <b>column3</b>
+         </td>
+         <td>column4</td>
+      </tr>
+   </table>
+</html>

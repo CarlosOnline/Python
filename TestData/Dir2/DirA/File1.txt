@@ -1,0 +1,41 @@
+<html>
+   <head>
+      <style  type = "text/css">
+      
+                            br { clear:both; }
+                        
+      </style>
+      <title>Foo Title was Here</title>
+   </head>
+   <body>
+      <h1>Hi There</h1>
+      <table>
+         <tr>
+            <td>1</td>
+         </tr>
+         <tr>
+            <td>2</td>
+         </tr>
+         <tr>
+            <td>3</td>
+         </tr>
+      <tr>
+         <td>4</td>
+      </tr>
+      <tr>
+         <td>5</td>
+      </tr>
+      <tr>
+         <td>6</td>
+      </tr>
+</table>
+<table>
+   <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+      <td>4</td>
+   </tr>
+</table>
+</body>
+</html>
